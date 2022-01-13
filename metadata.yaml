@@ -1,0 +1,32 @@
+_repo: Bumps-and-His-Buddies_67100
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Burbank, James W.
+    gutenberg_agent_id: '54116'
+    url: http://www.gutenberg.org/2009/agents/54116
+creator:
+  author:
+    agent_name: Gulbransen, Marie Helene
+    gutenberg_agent_id: '54115'
+    url: http://www.gutenberg.org/2009/agents/54115
+description: ''
+gutenberg_issued: '2022-01-04'
+identifiers:
+  gutenberg: '67100'
+language: en
+pgterms:marc904: https://archive.org/details/bumpshisbuddies00gulb/page/n7/mode/2up
+pgterms:marc905: 20210804180928gulbransen
+pgterms:marc906: '1924'
+pgterms:marc907: US
+production_note: Charlene Taylor, David E. Brown, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/American Libraries.)
+publication_note: United States :Dorrance & Company,1924.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Bumps and His Buddies
+url: http://www.gutenberg.org/ebooks/67100
