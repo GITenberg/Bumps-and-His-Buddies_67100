@@ -5,12 +5,17 @@ contributor:
     agent_name: Burbank, James W.
     gutenberg_agent_id: '54116'
     url: http://www.gutenberg.org/2009/agents/54116
+covers:
+- cover_type: archival
+  image_path: 67100-h/images/cover.jpg
 creator:
   author:
     agent_name: Gulbransen, Marie Helene
     gutenberg_agent_id: '54115'
     url: http://www.gutenberg.org/2009/agents/54115
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67100#Bumps-and-His-Buddies
 gutenberg_issued: '2022-01-04'
 identifiers:
   gutenberg: '67100'
